@@ -1,0 +1,32 @@
+
+.titulo {
+	display:block;
+	font-style:italic;
+	text-align:center;
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+	margin:30px 0;
+}
+.img-estrutura {
+		display: inline-block;
+		position:relative;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 10px 35%;
+	padding: 0px 2px;
+}
+
+p {
+	text-align:left;
+	font-size:22px;
+	margin:20px 500px;
+}
+body{
+	background:url("bg.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
