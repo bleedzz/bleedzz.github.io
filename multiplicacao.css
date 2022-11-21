@@ -25,6 +25,7 @@ p {
 }
 body{
 	background:url("bg.png");
-	background-repeat: no-repeat;
-	background-size: 100%;
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
