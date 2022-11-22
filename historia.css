@@ -30,11 +30,14 @@
 p {
 	text-align:left;
 	font-size:22px;
-	margin:20px 500px;
+	margin:20px 5%;
 }
 body{
 	background:url("bg.png");
 	background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+.texto-historia {
+	float:left
 }

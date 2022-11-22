@@ -1,11 +1,11 @@
 header {
 	background: #BBBBBB;
-	padding: 20px 0;
+	padding: 2% 0;
 }
 
 .caixa {
 	position: relative;
-	width: 940px;
+	width: 93%;
 	margin: 0 auto;
 }
 
@@ -81,6 +81,7 @@ main a:hover {
 }
 
 body {
+	min-width: 640px;
 	margin: 0 0 0 -2px;
 	overflow-x: hidden;
 	background: url("bg.png");

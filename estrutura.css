@@ -23,11 +23,16 @@
 p {
 	text-align:left;
 	font-size:22px;
-	margin:20px 500px;
+	margin:20px 5%;
 }
 body{
 	background:url("bg.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100%;
+	width: 100%;
+}
+.texto-principal {
+	float:left;
+	
 }
