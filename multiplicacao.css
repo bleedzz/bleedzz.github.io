@@ -24,11 +24,12 @@ p {
 	margin:20px 5%;
 }
 body{
+	float:left;
 	background:url("bg.png");
 	background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 .texto-multip {
-	float:left;
+	
 }
