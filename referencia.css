@@ -1,12 +1,4 @@
-.imagem-historia {
-		display: inline-block;
-		position:relative;
-	text-align: center;
-	width: 30%;
-	vertical-align: top;
-	margin: 10px 35%;
-	padding: 0px 2px;
-}
+
 .titulo {
 	font-style:italic;
 	text-align:center;
@@ -28,9 +20,9 @@
 	padding: 30px 20px;
 }
 p {
-	text-align:left;
+	text-align:center;
 	font-size:22px;
-	margin:20px 500px;
+	margin:20px 0px;
 }
 
 .alunos {
@@ -51,8 +43,14 @@ h2 {
 	padding:3px;
 }
 body{
+	display:inline-block;
+	float:left;
 	background:url("bg.png");
 	background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   }
+header {
+	width:100%;
+	display: inline-block;
+}

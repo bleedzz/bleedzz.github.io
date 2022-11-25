@@ -1,4 +1,5 @@
 header {
+	width: 100%;
 	background: #BBBBBB;
 	padding: 2% 0;
 }
@@ -89,4 +90,19 @@ body {
 	background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+footer {
+	text-align: center;
+	background:url("bg.jpg");
+	padding:20px 0;
+}
+
+.imagem {
+	width:5%
+}
+
+.copyright {
+	text-align: center;
+	font-size:14px;
 }
